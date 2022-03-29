@@ -1,0 +1,16 @@
+internship session started with Kowshik in the session, all discussed propositional statements and he explained step by step logically things give some questions like propositional logic:
+A propositional statement is a sentence or expression that is either true or false.
+-The sun make things warm where it shined
+-My car is outside under the sun.
+-My car is warm.
+This three sentence is true but any sentence is unrelated in the process it is false,
+-Various combinations of properties related to other properties.
+-Influence of one statement truth over the others.
+-If a statement is always, sometimes never true.
+After he explained variables and connectors, propositional statements referred with lower case alphabets, the logic explained and gave some examples, using logical Not  example: the house is painted red, correct the sentence house is not painted red. Use logic And example: all squares are rectangles and triangles have three sides. Logical Or example: all squares are rectangles or quadrilaterals have seven sides. These basic processes are explained. After the session i work in github,how to create a folder and using this command create a folder -mkdir foldername and create a file -touch filename.txt to create a file and add the file into the git use this command -git add filename then commit the process use  command  -git commit -m “ok” after push the file use this command -git push. After the lunch break I met my mentor Gayathri, I explained about today's session and learning new methods. She gave some lessons about questions, tasks and gave some ideas on how to learn in git methods.
+After the session Rexilia took the session explaining about html tags, she explained about one by one how to use tags. Create a html file to write a tag,The <html> tag represents the root of an html document. <head> header tag it uses like to give some title and heading.<p> paragraph tag use write a paragraph. The <title> tag defines the title of the document. The title must be text only, and it is shown in the browser title bar or in the page tab. <td> tag defines a standard data cell in an HTML table. An HTML table consists of one <table> element and one or more <tr>, <th>, and <td> elements. <body> body tag,The <body> element contains all the contents of an HTML document, such as headings, paragraphs, images, hyperlinks, tables, lists. The <style> tag is used to define style information (css) for a document, inside the <style> element you specify how html elements should render in a browser.The <br> tag inserts a single line break,tag is useful for writing addresses or poems,it is an empty tag which means that it has no end tag and <b> tag is bold font, <u> tag is underline font, <l> tag is italic font. The < center > tag was used in html4 (not supported in html5) to centre-align text. The <button> tag defines a clickable button, Always specify the type attribute for a <button> element, to tell browsers what type of button. This all the process of working and trying different types of tags practices.
+ 
+
+
+
+
